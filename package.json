@@ -1,0 +1,11 @@
+{
+  "name": "comet-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.28.3"
+  }
+}
